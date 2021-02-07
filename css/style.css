@@ -527,7 +527,7 @@ p{
 /*    position: relative*/
 }
 .kin .content .boxBorder{
-    background: url(../img/kin.jpg);
+    background: url(https://raw.githubusercontent.com/dedoa82/imags/main/kin.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -755,7 +755,7 @@ p{
     position: relative
 }
 .skill .content .boxBorder{
-    background: url(../img/skills.jpg);
+    background: url(https://raw.githubusercontent.com/dedoa82/imags/main/skills.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -1375,7 +1375,7 @@ p{
     margin-bottom: 0
 }
 .copy .content p a{
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Fredoka One';
     letter-spacing: 2px;
     font-size: 20px;
 }
